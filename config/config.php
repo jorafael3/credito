@@ -1,7 +1,7 @@
 <?php
 $link = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 $u = "$_SERVER[HTTP_HOST]";
-define('URL','http://'.$u.'/minimos/');// ip local:puerto
+define('URL','http://'.$u.'/credito/');// ip local:puerto
 
 define('HOST', '10.5.1.247');
 define('DB', 'CARTIMEX');
