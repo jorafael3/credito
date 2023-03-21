@@ -40,7 +40,7 @@ require 'views/header.php';
 
             </div>
             <div id="CON" style="display: none;">
-                <h1 style="font-size: 48px;">ENTRE 0 y 1</h1>
+                <h1 style="font-size: 48px;" id="ENTRE" ></h1>
                 <div id="chartdiv" style="width: 100%;height: 800px;"></div>
             </div>
 
