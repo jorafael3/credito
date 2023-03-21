@@ -65,7 +65,7 @@ $url_Cargar_Datos = constant('URL') . 'principal/Cargar_Datos/';
 
                     Grafico(newArray);
                     $("#CON").show(100);
-                    $("#ENTRE").text("ENTRE "+newArray[0]["prediccion"])
+                    $("#ENTRE").text(newArray[0]["prediccion"])
                     
                 }
             })
